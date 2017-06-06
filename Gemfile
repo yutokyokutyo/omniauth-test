@@ -8,6 +8,7 @@ end
 
 gem 'rails', '~> 5.0.2'
 gem 'devise'
+gem 'omniauth-facebook'
 gem 'sqlite3'
 gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
